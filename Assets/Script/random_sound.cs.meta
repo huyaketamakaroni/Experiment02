@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd8f2ed2f0803f643a681a45783076ca
+timeCreated: 1510032461
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sound_on: {instanceID: 0}
+  - sound_in: {fileID: 8300000, guid: 1c14805bfb2267c49814f4f7dc8928b0, type: 3}
+  - sound_out: {fileID: 8300000, guid: 7cf94c49471343d4c8263c4f37fadc56, type: 3}
+  - sound_bgm: {fileID: 8300000, guid: 3257bba06f493d94f8642e9c1d2d3748, type: 3}
+  - none: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
